@@ -1,0 +1,23 @@
+@import '../../../assets/colors';
+@import '../Input/styles.module';
+@import '../Select/styles.module';
+
+.arrow {
+  position: absolute;
+  right: 14px;
+  top: 20px;
+  height: 18px;
+}
+
+.calendar {
+  position: absolute;
+  top: 100%;
+  right: 0;
+}
+
+.calendar_img {
+  position: absolute;
+  right: 15px;
+  top: 20px;
+  height: 22px;
+}
